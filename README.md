@@ -17,7 +17,8 @@ This project explores **time-series forecasting** of Palantir Technologies' stoc
 Palantir has recently gained significant attention for its **AI-driven analytics platform** and growing market influence. Its rapid stock appreciation made it an ideal candidate for testing whether statistical forecasting methods could track volatile stock behavior and generate actionable insights.
 
 **Figure 1: Historical closing price of Palantir**  
-![Palantir Historical Closing Price](images/palantir_history.png)
+![Palantir Historical Closing Price](https://github.com/<username>/<repo-name>/blob/main/images/palantir_history.png?raw=true)
+
 
 ---
 
